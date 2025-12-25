@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LAB_WEEK_11B</string>
+
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+</resources>
